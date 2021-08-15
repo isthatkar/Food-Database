@@ -1,0 +1,416 @@
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\AutoNuoma.dll.config
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\AutoNuoma.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\AutoNuoma.pdb
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\csc.exe
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\csc.exe.config
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\csc.rsp
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\csi.exe
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\csi.exe.config
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\csi.rsp
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.AppContext.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Console.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Claims.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\vbc.exe
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\vbc.exe.config
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\vbc.rsp
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Antlr3.Runtime.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Newtonsoft.Json.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Helpers.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Mvc.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Optimization.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Razor.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\WebGrease.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Helpers.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Mvc.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Optimization.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.Razor.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Newtonsoft.Json.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Antlr3.Runtime.pdb
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.csprojAssemblyReference.cache
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.csproj.CopyComplete
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.pdb
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Google.Protobuf.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\MySql.Data.dll
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\Google.Protobuf.xml
+C:\Users\MSI GL\source\repos\AutoNuoma\AutoNuoma\bin\MySql.Data.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\AutoNuoma.dll.config
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\AutoNuoma.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\AutoNuoma.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\csc.exe
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\csc.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\csc.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\csi.exe
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\csi.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\csi.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.AppContext.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Console.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.Compression.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Claims.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.ValueTuple.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\vbc.exe
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\vbc.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\vbc.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\VBCSCompiler.exe
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Antlr3.Runtime.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Google.Protobuf.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\MySql.Data.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Newtonsoft.Json.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Helpers.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Mvc.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Optimization.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Razor.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Razor.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\WebGrease.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Google.Protobuf.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\MySql.Data.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Helpers.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Mvc.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Optimization.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.Razor.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Web.WebPages.Razor.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Newtonsoft.Json.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Antlr3.Runtime.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.csprojAssemblyReference.cache
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.csproj.CopyComplete
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.dll
+C:\Users\rugil\Desktop\Duomenų bazės\AutoNuoma\AutoNuoma\obj\Debug\AutoNuoma.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\AutoNuoma.dll.config
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\AutoNuoma.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\AutoNuoma.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\csc.exe
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\csc.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\csc.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\csi.exe
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\csi.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\csi.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.AppContext.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Console.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.IO.Compression.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.Claims.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.ValueTuple.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\vbc.exe
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\vbc.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\vbc.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\VBCSCompiler.exe
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Antlr3.Runtime.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Google.Protobuf.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\MySql.Data.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Newtonsoft.Json.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Helpers.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Mvc.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Optimization.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Razor.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.WebPages.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.WebPages.Razor.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\WebGrease.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Google.Protobuf.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\MySql.Data.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Helpers.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Mvc.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Optimization.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.Razor.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.WebPages.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Web.WebPages.Razor.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Newtonsoft.Json.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Antlr3.Runtime.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\obj\Debug\AutoNuoma.csprojAssemblyReference.cache
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\obj\Debug\AutoNuoma.csproj.CopyComplete
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\obj\Debug\AutoNuoma.dll
+C:\Users\rugil\Desktop\Duomenų bazės\Maistas\AutoNuoma\obj\Debug\AutoNuoma.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\AutoNuoma.dll.config
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\AutoNuoma.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\AutoNuoma.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csc.exe
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csc.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csc.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csi.exe
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csi.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csi.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.AppContext.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Console.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.Compression.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Claims.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.ValueTuple.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\vbc.exe
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\vbc.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\vbc.rsp
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\VBCSCompiler.exe
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Antlr3.Runtime.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Google.Protobuf.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\MySql.Data.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Newtonsoft.Json.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Helpers.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Mvc.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Optimization.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Razor.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Razor.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\WebGrease.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Google.Protobuf.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\MySql.Data.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Helpers.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Mvc.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Optimization.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Razor.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Razor.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Newtonsoft.Json.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Antlr3.Runtime.pdb
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.csprojAssemblyReference.cache
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.csproj.CopyComplete
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.dll
+C:\Users\rugil\Desktop\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.pdb
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\AutoNuoma.dll.config
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\AutoNuoma.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\AutoNuoma.pdb
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csc.exe
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csc.exe.config
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csc.rsp
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csi.exe
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csi.exe.config
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\csi.rsp
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.AppContext.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Console.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.Compression.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Claims.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.ValueTuple.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\vbc.exe
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\vbc.exe.config
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\vbc.rsp
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\VBCSCompiler.exe
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Antlr3.Runtime.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Google.Protobuf.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\MySql.Data.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Newtonsoft.Json.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Helpers.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Mvc.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Optimization.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Razor.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Razor.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\WebGrease.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Google.Protobuf.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\MySql.Data.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Helpers.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Mvc.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Optimization.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.Razor.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Web.WebPages.Razor.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Newtonsoft.Json.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Antlr3.Runtime.pdb
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.csprojAssemblyReference.cache
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.csproj.CopyComplete
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.dll
+C:\Users\rugil\OneDrive - Kaunas University of Technology\2 KURSAS\2 SEMESTRAS\Duomenų bazės\L3\Maistas\AutoNuoma\obj\Debug\AutoNuoma.pdb

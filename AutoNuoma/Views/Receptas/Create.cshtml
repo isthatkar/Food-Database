@@ -1,0 +1,154 @@
+﻿@model AutoNuoma.ViewModels.ReceptasEditViewModel
+
+@{
+    ViewBag.Title = "Naujas receptas";
+
+    var psl_k_count = 0;
+}
+
+<h2>Naujas receptas</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Recepto itraukimas</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <fieldset>
+            <legend>Recepto informacija</legend>
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.fk_PatiekalasPavadinimas, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.fk_PatiekalasPavadinimas, Model.PatiekalaiList, "--------------", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.fk_PatiekalasPavadinimas, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Sudetingumas, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.Sudetingumas, Model.SudetingumaiList, "--------------", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.Sudetingumas, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Laikas_minutemis, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Laikas_minutemis, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Laikas_minutemis, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+        </fieldset>
+
+
+
+        <fieldset>
+            <legend>Recepto produktai </legend>
+
+            <table class="table table-responsive" id="paslaugos_tbl">
+                <thead>
+                    <tr>
+                        <th>Produktas</th>
+                        <th style="width: 80px;">Kiekis</th>
+                        <th style="width: 80px;">Kiekio matas</th>
+                        <th style="width: 80px"></th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @{for (int i = 0; i < Model.ReceptoProduktaiList.Count; i++)
+                        {
+                                        <tr>
+                                            <td>
+                                                <span class="text-hide sel_element" style="display: none;">@Model.ReceptoProduktaiList[i].fk_ProduktasPavadinimas</span>
+                                                @Html.DropDownListFor(model => model.ReceptoProduktaiList[i].fk_ProduktasPavadinimas, Model.Produktai, new { @class = "form-control" })
+                                                @Html.ValidationMessageFor(model => model.ReceptoProduktaiList[i].fk_ProduktasPavadinimas, "", new { @class = "text-danger" })
+
+                                            </td>
+                                            <td>@Html.EditorFor(model => model.ReceptoProduktaiList[i].Kiekis, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                            @Html.ValidationMessageFor(model => model.ReceptoProduktaiList[i].Kiekis, "", new { @class = "text-danger" })
+
+                                        <td>
+                                            <span class="text-hide sel_element" style="display: none;">@Model.ReceptoProduktaiList[i].Kiekio_matas</span>
+                                            @Html.DropDownListFor(model => model.ReceptoProduktaiList[i].Kiekio_matas, Model.KiekioMatai, new { @class = "form-control" })
+                                            @Html.ValidationMessageFor(model => model.ReceptoProduktaiList[i].Kiekio_matas, "", new { @class = "text-danger" })
+
+                                        </td>
+                                            <td><button type="button" class="btn btn-danger">šalinti</button></td>
+                                        </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <input type="hidden" disabled value="@psl_k_count" id="hCount" />
+            <button type="button" id="prideti" class="btn btn-info pull-right" onclick="uzsakyti($('#hCount').val());"><i class="glyphicon-plus-sign"></i> Pridėti</button>
+        </fieldset>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" value="Išsaugoti" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Atgal į sarašą »", "Index", "Receptas", new { @class = "btn btn-default" })
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+    function uzsakyti(sk) {
+        var tmp_row = `<tr>
+                            <td>
+                                <span class="text-hide sel_element"></span>
+                                @Html.DropDownList("ReceptoProduktaiList[0].fk_ProduktasPavadinimas", Model.Produktai, "--------------", new { @class = "form-control" })
+                            </td>
+                            <td><input class="form-control text-box single-line" data-val="true" data-val-number="The field kiekis must be a number." data-val-required="The kiekis field is required." id="produktai_0__kiekis" name="ReceptoProduktaiList[0].Kiekis" type="number" value=""></td>
+                            <td>
+                                    <span class="text-hide sel_element" </span>
+                                   @Html.DropDownList("ReceptoProduktaiList[0].Kiekio_matas", Model.KiekioMatai, "--------------", new { @class = "form-control" })
+                                </td>
+    <td><button type="button" class="btn btn-danger" onclick="salinti(this);">šalinti</button></td>
+                        </tr>`;
+
+        var new_tmp_row = tmp_row.replace(/\[(0)\]/g, "[" + sk + "]");
+        new_tmp_row = new_tmp_row.replace(/\_(0)\_/g, "_" + sk + "_");
+
+        $("#paslaugos_tbl tr:last").after(new_tmp_row);
+
+        $('#hCount').val(Number($('#hCount').val()) + 1);
+
+    }
+
+    function salinti(btn) {
+        $(btn).closest('tr').remove();
+
+        var cnt = 0;
+
+        $("#paslaugos_tbl tbody tr").each(function () {
+            var tmp_row = "<tr>" + $(this).html() + "</tr>";
+            var new_tmp_row = tmp_row.replace(/\[(.)\]/g, "[" + cnt + "]");
+            new_tmp_row = new_tmp_row.replace(/\_(.)\_/g, "_" + cnt + "_");
+            $(this).replaceWith(new_tmp_row);
+            cnt = cnt + 1;
+        });
+
+        $('#hCount').val(cnt);
+
+        $(".sel_element").each(function () {
+            $(this).closest("td").find("select").val($(this).text());
+        });
+    }
+    </script>
+}
+

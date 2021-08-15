@@ -1,0 +1,53 @@
+﻿@model IEnumerable<AutoNuoma.ViewModels.ReceptasListViewModel>
+
+@{
+    ViewBag.Title = "Receptas";
+}
+
+<h2>Receptai</h2>
+
+<p>
+    @Html.ActionLink("Naujas receptas", "Create", "Receptas", new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+
+            <th>
+                @Html.DisplayNameFor(model => model.PatiekalasPavadinimas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sudetingumas)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Laikas_minutemis)
+            </th>
+
+            <th style="width: 18%"></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatiekalasPavadinimas)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sudetingumas)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Laikas_minutemis)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Redaguoti", "Edit", new { pavadinimas = item.PatiekalasPavadinimas }, new { @class = "btn btn-primary action" })
+                    @Html.ActionLink("Šalinti", "Delete", new { pavadinimas = item.PatiekalasPavadinimas }, new { @class = "btn btn-danger action" })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

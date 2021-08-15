@@ -1,0 +1,56 @@
+﻿@model IEnumerable<AutoNuoma.Models.Klientas>
+
+@{
+    ViewBag.Title = "Klientas";
+}
+
+<h2>Klientai</h2>
+
+<p>
+    @Html.ActionLink("Naujas klientas", "Create", "Klientas", new { @class="btn btn-success"})
+</p>
+<table class="table table-striped datatable">
+    <thead>
+    <tr style="background-color: lightblue">
+        
+        <th>
+            @Html.DisplayNameFor(model => model.Vardas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pavarde)
+        </th>
+      
+        <th>
+            @Html.DisplayNameFor(model => model.Tel_numeris)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.El_pastas)
+        </th>
+        <th style="width: 18%"></th>
+    </tr>
+        </thead>
+    <tbody>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Vardas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pavarde)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tel_numeris)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.El_pastas)
+        </td>
+        <td>
+            @Html.ActionLink("Redaguoti", "Edit", new {  id=item.Tel_numeris  }, new { @class= "btn btn-primary action" }) 
+            @Html.ActionLink("Šalinti", "Delete", new {  id=item.Tel_numeris  }, new { @class= "btn btn-danger action" })
+        </td>
+    </tr>
+}
+        </tbody>
+
+</table>

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<AutoNuoma.Models.Produktas>
+
+@{
+    ViewBag.Title = "Produktai";
+}
+
+<h2>Produktai</h2>
+
+      <p>
+        @Html.ActionLink("Naujas produktas", "Create", "Produktas", new { @class="btn btn-success"})
+    </p>
+    <table class="table table-striped datatable">
+        <thead>
+            <tr style="background-color: lightblue">
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Pavadinimas)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Kaina_eurais)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Baltymai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Angliavandeniai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Riebalai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Kalorijos)
+                </th>
+                <th style="width: 18%"></th>
+            </tr>
+            </thead>
+        <tbody>
+
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pavadinimas)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kaina_eurais)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Baltymai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Angliavandeniai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Riebalai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kalorijos)
+                </td>
+                <td>
+                    @Html.ActionLink("Redaguoti", "Edit", new { id = item.Pavadinimas }, new { @class = "btn btn-primary action" })
+                    @Html.ActionLink("Šalinti", "Delete", new { id = item.Pavadinimas }, new { @class = "btn btn-danger action" })
+                </td>
+            </tr>
+    }
+            </tbody>
+
+    </table>

@@ -1,0 +1,88 @@
+﻿@model AutoNuoma.ViewModels.RestoranasEditViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Šalinimas</h2>
+
+<h3>Ar tikrai norite pašalinti šį restoraną?</h3>
+<div>
+    <h4>Restorano šalinimas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pavadinimas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pavadinimas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Virtuves_tipas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Virtuves_tipas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Atidarymo_metai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atidarymo_metai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tel_numeris)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tel_numeris)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vietu_skaicius)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vietu_skaicius)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ivertinimas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ivertinimas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Miestas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Miestas)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            @if (ViewBag.naudojama != null)
+            {
+                <h5 style="color:red">@ViewBag.naudojama</h5>
+            }
+            else
+            {
+                <input type="submit" value="Šalinti" class="btn btn-danger" />
+            }
+            @Html.ActionLink("Atgal į sąrašą", "Index", "Sutartis", new { @class = "btn btn-default" })
+        </div>
+    }
+</div>

@@ -1,0 +1,192 @@
+﻿@model AutoNuoma.ViewModels.RestoranasEditViewModel
+
+@{
+    ViewBag.Title = "Edit";
+    var psl_k_count = 0;
+
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>RestoranasEditViewModel</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Pavadinimas, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Pavadinimas, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+            @Html.ValidationMessageFor(model => model.Pavadinimas, "", new { @class = "text-danger", @readonly = "readonly" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Virtuves_tipas, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Virtuves_tipas, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Virtuves_tipas, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Atidarymo_metai, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Atidarymo_metai, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Atidarymo_metai, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Tel_numeris, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Tel_numeris, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Tel_numeris, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Vietu_skaicius, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Vietu_skaicius, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Vietu_skaicius, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Ivertinimas, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Ivertinimas, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Ivertinimas, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Miestas, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Miestas, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Miestas, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+
+
+
+    @{if (Model.Darbuotojai != null)
+        {
+            psl_k_count = Model.Darbuotojai.Count;
+        }
+        else
+        {
+            psl_k_count = 0;
+        }
+    }
+
+        <fieldset>
+            <legend>Restorano darbuotojai </legend>
+
+            <table class="table table-responsive" id="paslaugos_tbl">
+                <thead>
+                    <tr>
+                        <th style="width: 80px;">Vardas</th>
+                        <th style="width: 80px;">Pavarde</th>
+                        <th style="width: 80px;">Pareigos</th>
+                        <th style="width: 80px;">Isidarbinimo data</th>
+                        <th style="width: 80px;">Tabelio_nr</th>
+                        <th style="width: 80px;">Tel. numeris</th>
+                        <th style="width: 80px"></th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @{for (int i = 0; i < Model.Darbuotojai.Count; i++)
+                        {
+                            <tr>
+                                <td>@Html.EditorFor(model => model.Darbuotojai[i].Vardas, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                @Html.ValidationMessageFor(model => model.Darbuotojai[i].Vardas, "", new { @class = "text-danger" })
+
+                                <td>@Html.EditorFor(model => model.Darbuotojai[i].Pavarde, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                @Html.ValidationMessageFor(model => model.Darbuotojai[i].Pavarde, "", new { @class = "text-danger" })
+
+                                <td>@Html.EditorFor(model => model.Darbuotojai[i].Pareigos, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                @Html.ValidationMessageFor(model => model.Darbuotojai[i].Pareigos, "", new { @class = "text-danger" })
+
+                                <td>@Html.EditorFor(model => model.Darbuotojai[i].Isidarbinimo_data, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                @Html.ValidationMessageFor(model => model.Darbuotojai[i].Isidarbinimo_data, "", new { @class = "text-danger" })
+
+                                <td>@Html.EditorFor(model => model.Darbuotojai[i].Tabelio_nr, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                @Html.ValidationMessageFor(model => model.Darbuotojai[i].Tabelio_nr, "", new { @class = "text-danger" })
+
+                                <td>@Html.EditorFor(model => model.Darbuotojai[i].Tel_numeris, new { htmlAttributes = new { @class = "form-control" } })</td>
+                                @Html.ValidationMessageFor(model => model.Darbuotojai[i].Tel_numeris, "", new { @class = "text-danger" })
+                                <td><button type="button" class="btn btn-danger">šalinti</button></td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <input type="hidden" disabled value="@psl_k_count" id="hCount" />
+            <button type="button" id="prideti" class="btn btn-info pull-right" onclick="uzsakyti($('#hCount').val());"><i class="glyphicon-plus-sign"></i> Pridėti</button>
+        </fieldset>
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" value="Save" class="btn btn-success" />
+            </div>
+        </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Atgal į sarašą »", "Index", "Restoranas", new { @class = "btn btn-default" })
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        function uzsakyti(sk) {
+            var tmp_row = `<tr>
+
+                                            <td><input class="form-control text-box single-line" data-val="true" data-val-string="The field vardas must be a string." data-val-required="The vardas field is required." id="darbuotojai_0__kiekis" name="Darbuotojai[0].Vardas" type="string" value=""></td>
+                                          <td><input class="form-control text-box single-line" data-val="true" data-val-string="The field pavarde must be a string." data-val-required="The pavarde field is required." id="darbuotojai_0__kiekis" name="Darbuotojai[0].Pavarde" type="string" value=""></td>
+                                          <td><input class="form-control text-box single-line" data-val="true" data-val-string="The field pareigos must be a string." data-val-required="The vardas field is required." id="darbuotojai_0__kiekis" name="Darbuotojai[0].Pareigos" type="string" value=""></td>
+                                          <td><input class="form-control text-box single-line" data-val="true" data-val-datetime="The field isidarbinimo data must be a string." data-val-required="The vardas field is required." id="darbuotojai_0__kiekis" name="Darbuotojai[0].Isidarbinimo_data" required type="DateTime" value=""></td>
+<td><input class="form-control text-box single-line" data-val="true" data-val-number="The field Tabelio nr must be a number." data-val-required="The tabelio nr field is required." id="Tabelio_nr" name="darbuotojai[0].Tabelio_nr" required type="number" value=""></td>
+                    <td><input class="form-control text-box single-line" data-val="true" data-val-string="The field tel_numeris must be a string." data-val-required="The vardas field is required." id="darbuotojai_0__kiekis" name="Darbuotojai[0].Tel_numeris" type="string" value=""></td>
+
+                    <td><button type="button" class="btn btn-danger" onclick="salinti(this);">šalinti</button></td>
+                                        </tr>`;
+
+            var new_tmp_row = tmp_row.replace(/\[(0)\]/g, "[" + sk + "]");
+            new_tmp_row = new_tmp_row.replace(/\_(0)\_/g, "_" + sk + "_");
+
+            $("#paslaugos_tbl tr:last").after(new_tmp_row);
+
+            $('#hCount').val(Number($('#hCount').val()) + 1);
+
+        }
+
+        function salinti(btn) {
+            $(btn).closest('tr').remove();
+
+            var cnt = 0;
+
+            $("#paslaugos_tbl tbody tr").each(function () {
+                var tmp_row = "<tr>" + $(this).html() + "</tr>";
+                var new_tmp_row = tmp_row.replace(/\[(.)\]/g, "[" + cnt + "]");
+                new_tmp_row = new_tmp_row.replace(/\_(.)\_/g, "_" + cnt + "_");
+                $(this).replaceWith(new_tmp_row);
+                cnt = cnt + 1;
+            });
+
+            $('#hCount').val(cnt);
+
+            $(".sel_element").each(function () {
+                $(this).closest("td").find("select").val($(this).text());
+            });
+        }
+    </script>
+}
+

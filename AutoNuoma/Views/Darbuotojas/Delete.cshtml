@@ -1,0 +1,83 @@
+﻿@model AutoNuoma.ViewModels.DarbuotojasEditViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Darbuotojo šalinimas</h2>
+
+<h3>Ar tikrai norite pašalinti šį darbuotoją?</h3>
+<div>
+    <h4>Darbuotojas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tabelio_nr)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tabelio_nr)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vardas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vardas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pavarde)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pavarde)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Isidarbinimo_data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Isidarbinimo_data)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Pareigos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pareigos)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Tel_numeris)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tel_numeris)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Restroranas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Restroranas)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        @if (ViewBag.naudojama != null)
+        {
+            <h5 style="color:red">@ViewBag.naudojama</h5>
+        }
+        else
+        {
+            <input type="submit" value="Šalinti" class="btn btn-danger" />
+        }
+        @Html.ActionLink("Atgal į sąrašą", "Index", "Darbuotojas", new { @class = "btn btn-default" })
+    </div>
+    }
+</div>

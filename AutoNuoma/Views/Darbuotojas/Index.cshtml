@@ -1,0 +1,74 @@
+﻿@model IEnumerable<AutoNuoma.ViewModels.DarbuotojasViewModel>
+
+@{
+    ViewBag.Title = "Darbuotojai";
+}
+
+<h2>Darbuotojai</h2>
+
+<p>
+    @Html.ActionLink("Naujas darbuotojas", "Create", "Darbuotojas", new { @class="btn btn-success"})
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.Tabelio_nr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vardas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pavarde)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Isidarbinimo_data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pareigos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tel_numeris)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Restroranas)
+            </th>
+            
+            <th style="width: 18%"></th>
+        </tr>
+        </thead>
+    <tbody>
+
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tabelio_nr)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vardas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pavarde)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Isidarbinimo_data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pareigos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tel_numeris)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Restroranas)
+            </td>
+           
+            <td>
+                @Html.ActionLink("Redaguoti", "Edit", new { id = item.Tabelio_nr }, new { @class = "btn btn-primary action" })
+                @Html.ActionLink("Šalinti", "Delete", new { id = item.Tabelio_nr }, new { @class = "btn btn-danger action" })
+            </td>
+        </tr>
+}
+        </tbody>
+
+</table>
